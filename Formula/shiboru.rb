@@ -7,7 +7,7 @@ class Shiboru < Formula
   sha256 "3a39d384e52ede3790e4b0e04369daf89e7dade452c358191175c5ed144ccf3e"
   license "MIT"
 
-  depends_on "python@3.12"
+  depends_on "python@3.13"
   depends_on "oxipng"
   depends_on "jpegoptim"
   depends_on "gifsicle"
