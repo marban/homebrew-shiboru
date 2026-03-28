@@ -3,8 +3,8 @@ class Shiboru < Formula
 
   desc "macOS command-line image optimizer for PNG, JPEG, GIF, SVG, and ICO"
   homepage "https://github.com/marban/shiboru"
-  url "https://github.com/marban/shiboru/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "3a39d384e52ede3790e4b0e04369daf89e7dade452c358191175c5ed144ccf3e"
+  url "https://github.com/marban/shiboru/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "5fffade512ab805f37ff59505f0d494cd59df4aa379e1cecfbc33740a10fd6c2"
   license "MIT"
 
   depends_on "python@3.13"
